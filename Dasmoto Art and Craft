@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="index.css">
+  <title>Craft Products & Dasmoto Art and Craft </title>
+  
+</head>
+<body > 
+
+
+  <h1 align="center">Dasmoto`s Arts and Craft</h1>
+  <div id="picture1">
+  </div>
+
+<div class="brushes">
+  <h2 id="Brushes">Brushes</h2>
+<img src="./images/hacksaw.png" alt="">
+<h3>Hacksaw Brushes</h3>
+<p>Made of the highest quality oak, Hacksaw brushes are known for their weight and ability to hold paint in large amounts. Available in different sizes.<span class="price" > Starting at $3.00 / brush.</span> </p>
+</div>
+
+<div class="Frames">
+<h2 id="Frames"> Frames </h2>
+<img src="./images/frames.png" alt="">
+<h3>Art Frames (Assorted)</h3>
+<p>Assorted frames made of different material, including MDF, birchwood, and PDE. Select frames can be sanded and painted according to your needs.<Span class="price"> Starting at $2.00 / frame.</Span></p>
+</div>
+
+<div class="paint">
+  <h2 id="Paint">Paint</h2>
+  <img src="./images/finnish.png" alt="">
+  <p>Imported paint from Finland. Over 256 colors available in-store, varying in quantity (1 oz. to 8 oz.). Clean Finnish paint microbinds to canvas, increasing the finish and longevity of any artwork. <span class="price"> Starting at $5.00 / tube.</span></p>
+</div>
+
+
+</body>
+</html>
+
+
+<style>
+
+ 
+ #picture1{
+  background-image:url("./images/pattern.png") ;
+  width: 100%;
+  min-height: 100px;
+  }
+ h1{
+    font-family: Helvetica;
+    font-size: 360%;
+    font-weight: bold;
+    color: khaki
+    background-image:url("./images/pattern.png") ;
+ }
+  
+
+    img{
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: cover;
+    }
+
+    .brushes h2{
+      background-color: aqua;
+      color: rgb(255, 255, 255);
+      font-family: Helvetica;
+      font-weight: bold;
+      font-size: 32px;
+      
+    }
+    .price{
+      color: blue;
+      font-weight: bold;
+      font-size: 20px;
+    }
+
+  .Frames h2{
+    background-color: chocolate;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 32px;
+    color: aliceblue;
+     }
+
+     h3{
+      font-weight: bold;
+      font-size: 20px;
+     }
+
+     .paint h2{
+      background-color: rgb(26, 180, 180);
+      color: aliceblue;
+      font-family:Helvetica;
+      font-weight: bold;
+      font-size:32px; 
+     }
+
+      
+
+
+    
+ #picture1{
+  background-image:url("./images/pattern.png") ;
+  width: 100%;
+  min-height: 100px;
+  }
+ h1{
+    font-family: Helvetica;
+    font-size: 360%;
+    font-weight: bold;
+    color: khaki
+    background-image:url("./images/pattern.png") ;
+ }
+  
+
+    img{
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: cover;
+    }
+
+    .brushes h2{
+      background-color: aqua;
+      color: rgb(255, 255, 255);
+      font-family: Helvetica;
+      font-weight: bold;
+      font-size: 32px;
+      
+    }
+    .price{
+      color: blue;
+      font-weight: bold;
+      font-size: 20px;
+    }
+
+  .Frames h2{
+    background-color: chocolate;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 32px;
+    color: aliceblue;
+     }
+
+     h3{
+      font-weight: bold;
+      font-size: 20px;
+     }
+
+     .paint h2{
+      background-color: rgb(26, 180, 180);
+      color: aliceblue;
+      font-family:Helvetica;
+      font-weight: bold;
+      font-size:32px; 
+     }
+
+      
+</style>
+
+   
